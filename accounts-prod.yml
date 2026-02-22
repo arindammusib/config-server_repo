@@ -6,4 +6,4 @@ accounts:
   message: "Welcome to Arindam accounts related Prod APIs"
   contactDetails:
     name: "Sachin -Prod Lead"
-    email: "sac12@gmai.com"
+    email: "{cipher}6bd4096fc73091bf309d79593e7da6501f1b262e8ed4badbac8f500869823ed0"
