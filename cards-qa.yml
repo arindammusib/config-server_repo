@@ -1,0 +1,9 @@
+
+
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to Arindam cards related QA APIs"
+  contactDetails:
+    name: "Sagar -QA Lead"
+    email: "Sag@gmai.com"

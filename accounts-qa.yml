@@ -1,0 +1,8 @@
+
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to Arindam accounts related QA APIs"
+  contactDetails:
+    name: "Sagar -QA Lead"
+    email: "Sag@gmai.com"

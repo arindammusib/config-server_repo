@@ -1,0 +1,9 @@
+
+
+build:
+  version: "3.0"
+loans:
+  message: "Welcome to Arindam loans related Prod APIs"
+  contactDetails:
+    name: "Krish -Prod Lead"
+    email: "krish@gmai.com"

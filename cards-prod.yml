@@ -1,0 +1,9 @@
+
+
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to Arindam cards related Prod APIs"
+  contactDetails:
+    name: "Sachin -Prod Lead"
+    email: "sac12@gmai.com"

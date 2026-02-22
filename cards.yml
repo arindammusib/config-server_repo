@@ -1,0 +1,10 @@
+
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Arindam cards related local APIs"
+  contactDetails:
+    name: "Arindam -Developer"
+    email: "am12@gmail.com"

@@ -1,0 +1,9 @@
+
+
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to Arindam accounts related Prod APIs"
+  contactDetails:
+    name: "Sachin -Prod Lead"
+    email: "sac12@gmai.com"

@@ -1,0 +1,10 @@
+
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Arindam loans related local APIs"
+  contactDetails:
+    name: "Rishab -Developer"
+    email: "Ris@gmail.com"
