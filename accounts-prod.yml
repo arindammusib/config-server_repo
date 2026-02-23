@@ -3,7 +3,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to Arindam accounts related Prod APIs"
+  message: "Welcome to Arindam accounts related Production APIs"
   contactDetails:
     name: "Sachin -Prod Lead"
     email: "{cipher}6bd4096fc73091bf309d79593e7da6501f1b262e8ed4badbac8f500869823ed0"
