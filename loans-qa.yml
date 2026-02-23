@@ -3,7 +3,7 @@
 build:
   version: "2.0"
 loans:
-  message: "Welcome to Arindam loans related QA APIs"
+  message: "Welcome to Arindam loans related QA Env APIs"
   contactDetails:
     name: "Rimi -QA Lead"
     email: "Rim@gmai.com"
